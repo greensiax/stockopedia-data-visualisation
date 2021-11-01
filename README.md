@@ -1,3 +1,3 @@
 # stockopedia-data-visualisation
 
-The Jupyter Notepad to accompany my post on Stockopedia desxcribing how to visualise Stockopedia data using Python
+The Jupyter Notepad to accompany my post on Stockopedia describing how to visualise Stockopedia data using Python
