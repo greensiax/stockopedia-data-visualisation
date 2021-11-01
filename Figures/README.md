@@ -1,3 +1,3 @@
 # stockopedia-data-visualisation/Figures
 
-This folder is where saves figures will be output
+This folder is where saved figures will be output
