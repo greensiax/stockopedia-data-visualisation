@@ -1,3 +1,11 @@
+
+# Images I have generated from Jupyter
+Figures/*.html
+Figures/*.png
+
+# PyCharm EDI config files
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
